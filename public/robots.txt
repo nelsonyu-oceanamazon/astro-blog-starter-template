@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pf.oceanamazon.com/sitemap-index.xml
